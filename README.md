@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Islam Ahmed</h1>
 <h2 align="center">A Full Stack Web Developer, Desktop Developer.</h2>
 <h3 align="left">Connect with me:</h3>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=SoftEng-Islam&label=Profile%20views&color=0e75b6&style=flat" alt="SoftEng-Islam"/></p>
-<p align="right"> <a href="https://twitter.com/SoftEng_Islam" target="_blank"><img src="https://img.shields.io/twitter/follow/SoftEng_Islam?logo=twitter&style=for-the-badge" alt="SoftEng_Islam" /></a></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SoftEng-Islam&label=Profile%20views&color=0e75b6&style=flat" alt="SoftEng-Islam"/>
+  <a href="https://twitter.com/SoftEng_Islam" target="_blank"><img src="https://img.shields.io/twitter/follow/SoftEng_Islam?logo=twitter&style=for-the-badge" alt="SoftEng_Islam"/></a>
+</p>
 
 
 
