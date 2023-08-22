@@ -16,9 +16,9 @@
 
 
 
-FaceBook Profile: https://www.facebook.com/SoftEng.Islam/
-Twitter Profile:  https://twitter.com/SoftEng_Islam
-Codepen Profile:  https://codepen.io/SoftEng-Islam
+<p><a href="https://www.facebook.com/SoftEng.Islam/" target="_blank">FaceBook</a></p>
+<p><a href="https://twitter.com/SoftEng_Islam/" target="_blank">Twitter</a></p>
+<p><a href="https://codepen.io/SoftEng-Islam/" target="_blank">Codepen</a></p>
 
 
 <h4 align="left">Languages and Tools:</h4>
