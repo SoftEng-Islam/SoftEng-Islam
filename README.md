@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Islam Ahmed</h1>
 <h2 align="center">A Full Stack Web Developer, Desktop Developer.</h2>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/SoftEng_Islam" target="_blank">
-    <img align="center" src="" alt="SoftEng_Islam" height="30" width="40" />
-  </a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SoftEng_Islam&label=Profile%20views&color=0e75b6&style=flat" alt="SoftEng_Islam"/></p>
+
 
 
 - 👋 Hi, I’m Islam Ahmed
