@@ -39,7 +39,7 @@ Codepen Profile:  https://codepen.io/SoftEng-Islam
 </p>
 
 
-
+<hr/>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoftEng-Islam&show_icons=true&locale=en&theme=onedark" alt="SoftEng-Islam" />
 <hr/>
