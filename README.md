@@ -40,8 +40,9 @@ Codepen Profile:  https://codepen.io/SoftEng-Islam
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SoftEng-Islam&show_icons=true&locale=en&layout=compact" alt="SoftEng-Islam" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoftEng-Islam&show_icons=true&locale=en&theme=onedark" alt="SoftEng-Islam" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SoftEng-Islam&theme=onedark" alt="SoftEng-Islam" />
+</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SoftEng-Islam&show_icons=true&locale=en&layout=compact&theme=onedark" alt="SoftEng-Islam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SoftEng-Islam&show_icons=true&locale=en" alt="SoftEng-Islam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SoftEng-Islam&" alt="SoftEng-Islam" /></p>
