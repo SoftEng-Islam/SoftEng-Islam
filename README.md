@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Islam Ahmed</h1>
 <h2 align="center">A Full Stack Web Developer, Desktop Developer.</h2>
 <div align=center> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=1000&color=0CF748&size=32&center=true&vCenter=true&width=600&height=50&lines=I+love+Coding.;Electronjs+%F0%9F%92%8F+;Typescript%2C+Python%2C+C%2B%2B%2C+Rust%2C+WSL;I+have+0+Friends+%F0%9F%A5%BA" alt="Headline"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=1000&color=0CF748&size=32&center=true&vCenter=true&width=700&height=50&lines=I+love+Coding.;Electronjs+%F0%9F%92%8F+;Typescript%2C+Python%2C+C%2B%2B%2C+Rust%2C+WSL;I+have+0+Friends+%F0%9F%A5%BA" alt="Headline"/>
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
