@@ -16,6 +16,10 @@
 - 🌱 I’m currently learning Many useful things
 - 💞️ I’m looking to collaborate on Desktop application development with electron
 - 📫 How to reach me softeng.islam@gmail.com || Twitter => @SoftEng_Islam
+- 🔭 I’m currently work on **Develop Desktop Application => ElectoNote**
+- 👨‍💻 All of my projects are available Here
+- 💬 Ask me about **The love or web development**
+- ⚡ Fun fact **I am always serious, 😄😄😄**
 
 
 
