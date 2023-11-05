@@ -33,17 +33,14 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/softeng.islam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="softeng.islam" /></a><a href="https://ko-fi.com/softeng_islam"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="softeng_islam" /></a></p><br><br>
 
-<div align="center">
-<a align="center">
-<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=softeng-islam&" alt="softeng-islam" />  
-</a>
-<a align="center">
-<img align="" src="https://github-readme-stats.vercel.app/api?username=softeng-islam&show_icons=true&locale=en" alt="softeng-islam" />   
-</a>
-<a align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=softeng-islam&show_icons=true&locale=en&layout=compact" alt="softeng-islam" />  
-</a>
-</div>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=softeng-islam&" alt="softeng-islam" />  
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=softeng-islam&show_icons=true&locale=en" alt="softeng-islam" />   
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=softeng-islam&show_icons=true&locale=en&layout=compact" alt="softeng-islam" />  
+
 
 
 
