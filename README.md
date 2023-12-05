@@ -5,11 +5,11 @@
 
 
 ## 💫 About Me:
-- 🔭 I’m currently working on [DevDoku](https://github.com/SoftEng-Islam/Dev-Doku)
-- 🌱 I’m currently learning **Rust, Tauri**
-- 💬 Ask me about **Vue, TypeScript, Electronjs**
-- ⚡ Fun fact **I think I am Romantic, I love cats**
-- 📫 How to reach me **softeng.islam@gmail.com**
+- 🔭 I’m currently working on many of Project's .
+- 🌱 I’m currently learning **Rust, Tauri** .
+- 💬 Ask me about **Vue, TypeScript, Electronjs** .
+- ⚡ Fun fact **I think I am Romantic, I love cats** .
+- 📫 How to reach me **softeng.islam@gmail.com** .
 
 ## 🌐 Socials: Connect with me:
 <p align="left">
