@@ -2,8 +2,7 @@
 <p>A Software Engineer From Egypt.</p>
 <p><a align="center" href="https://twitter.com/softeng_islam" target="_blank"><img src="https://img.shields.io/twitter/follow/softeng_islam?logo=twitter&style=for-the-badge" alt="softeng_islam" /></a></p>
 
-<p></p>
-<p></p>
+<br/>
 
 
 ## 💫 About Me:
