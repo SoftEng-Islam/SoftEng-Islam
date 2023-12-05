@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Islam</h1>
 <h3 align="center">A Software Engineer From Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=softeng-islam&label=Profile%20views&color=0e75b6&style=flat" alt="softeng-islam" /> </p>
-
-
 <p align="left"> <a href="https://twitter.com/softeng_islam" target="blank"><img src="https://img.shields.io/twitter/follow/softeng_islam?logo=twitter&style=for-the-badge" alt="softeng_islam" /></a> </p>
+
 
 - 🔭 I’m currently working on [DevDoku](https://github.com/SoftEng-Islam/Dev-Doku)
 
@@ -14,7 +12,7 @@
 
 - 📫 How to reach me **softeng.islam@gmail.com**
 
-- ⚡ Fun fact **I think I am Romantic.**
+- ⚡ Fun fact **I think I am Romantic, I love cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
