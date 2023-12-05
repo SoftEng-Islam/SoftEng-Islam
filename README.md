@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Islam
 <p>A Software Engineer From Egypt</p>
+<p align="left"> <a href="https://twitter.com/softeng_islam" target="blank"><img src="https://img.shields.io/twitter/follow/softeng_islam?logo=twitter&style=for-the-badge" alt="softeng_islam" /></a> </p>
 </h1>
 
-<p align="left"> <a href="https://twitter.com/softeng_islam" target="blank"><img src="https://img.shields.io/twitter/follow/softeng_islam?logo=twitter&style=for-the-badge" alt="softeng_islam" /></a> </p>
 
 # 💫 About Me:
 - 🔭 I’m currently working on [DevDoku](https://github.com/SoftEng-Islam/Dev-Doku)
