@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Islam
+# Hi 👋, I'm Islam
 <p>A Software Engineer From Egypt</p>
 <p><a align="center" href="https://twitter.com/softeng_islam" target="_blank"><img src="https://img.shields.io/twitter/follow/softeng_islam?logo=twitter&style=for-the-badge" alt="softeng_islam" /></a></p>
-</h1>
 
 
-# 💫 About Me:
+
+## 💫 About Me:
 - 🔭 I’m currently working on [DevDoku](https://github.com/SoftEng-Islam/Dev-Doku)
 - 🌱 I’m currently learning **Rust, Tauri**
 - 💬 Ask me about **Vue, TypeScript, Electronjs**
 - ⚡ Fun fact **I think I am Romantic, I love cats**
 - 📫 How to reach me **softeng.islam@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"># 🌐 Socials: Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/softeng-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="softeng-islam" height="30" width="40" /></a>
 <a href="https://dev.to/softeng-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="softeng-islam" height="30" width="40" /></a>
