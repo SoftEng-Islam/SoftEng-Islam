@@ -3,16 +3,12 @@
 
 <p align="left"> <a href="https://twitter.com/softeng_islam" target="blank"><img src="https://img.shields.io/twitter/follow/softeng_islam?logo=twitter&style=for-the-badge" alt="softeng_islam" /></a> </p>
 
-
+# 💫 About Me:
 - 🔭 I’m currently working on [DevDoku](https://github.com/SoftEng-Islam/Dev-Doku)
-
 - 🌱 I’m currently learning **Rust, Tauri**
-
 - 💬 Ask me about **Vue, TypeScript, Electronjs**
-
-- 📫 How to reach me **softeng.islam@gmail.com**
-
 - ⚡ Fun fact **I think I am Romantic, I love cats**
+- 📫 How to reach me **softeng.islam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
