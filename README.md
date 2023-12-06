@@ -35,9 +35,12 @@
 
 
 ## Support:
-<p><a href="https://www.buymeacoffee.com/softeng.islam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="softeng.islam" /></a><a href="https://ko-fi.com/softeng_islam"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="softeng_islam" /></a></p><br><br>
-
-
+<br/>
+<p>
+  <a href="https://www.buymeacoffee.com/softeng.islam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="softeng.islam" /></a>
+  <a href="https://ko-fi.com/softeng_islam"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="softeng_islam" /></a>
+</p>
+<br/>
 
 
 
