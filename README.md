@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Rust, Tauri** .
 - 💬 Ask me about **Vue, TypeScript, Electronjs** .
 - ⚡ Fun fact **I think I am Romantic, I love cats** .
-- 📫 How to reach me **softeng.islam@gmail.com** .
+- 📫 How to reach me **softeng.islam@gmail.com** or ![Telegram](t.me/@softeng_islam") .
 
 
 <br/>
@@ -23,7 +23,7 @@
 <a href="https://instagram.com/softeng_islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="softeng_islam" height="30" width="40" /></a>
 <a href="https://dev.to/softeng-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="softeng-islam" height="30" width="40" /></a>
 <a href="https://codepen.io/softeng-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="softeng-islam" height="30" width="40" /></a>
-<a href="t.me/@softeng_islam" target="blank">Telegram</a>
+
 
 
 </p>
