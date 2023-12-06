@@ -11,9 +11,9 @@
 - 💬 Ask me about **Vue, TypeScript, Electronjs** .
 - ⚡ Fun fact **I think I am Romantic, I love cats** .
 - 📫 How to reach me
-  - Email    **softeng.islam@gmail.com**
-  - Telegram **https://t.me/softeng_islam** .
-  - Twitter **https://twitter.com/softeng_islam**
+  - Twitter: **https://twitter.com/softeng_islam**
+  - Telegram: **https://t.me/softeng_islam**
+  - Email: **softeng.islam@gmail.com**
 
 <br/>
 
