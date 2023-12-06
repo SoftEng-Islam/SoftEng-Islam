@@ -33,9 +33,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
+<br/>
 
 ## Support:
-<br/>
 <p>
   <a href="https://www.buymeacoffee.com/softeng.islam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="softeng.islam" /></a>
   <a href="https://ko-fi.com/softeng_islam"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="softeng_islam" /></a>
