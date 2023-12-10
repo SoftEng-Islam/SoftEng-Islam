@@ -25,7 +25,13 @@
 <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="softeng_islam"/>
 </a>
 
-  
+
+<a href="https://m.me/SoftEng.Islam/" target="_blank">
+<img align="center" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white
+" alt="softeng_islam"/>
+</a>
+
+
 <a href="https://twitter.com/softeng_islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="softeng_islam" height="30" width="40" /></a>
 
 <a href="https://fb.com/softeng.islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="softeng.islam" height="30" width="40" /></a>
