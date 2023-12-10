@@ -26,9 +26,12 @@
 </a>
 
 
+<a href="softeng.islam@gmail.com" target="_blank">
+<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="softeng_islam"/>
+</a>
+
 <a href="https://m.me/SoftEng.Islam/" target="_blank">
-<img align="center" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white
-" alt="softeng_islam"/>
+<img align="center" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="softeng_islam"/>
 </a>
 
 
