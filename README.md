@@ -68,7 +68,7 @@
 
 <br/>
 
-##📝 Blog
+## 📝 Blog
 
 <p>
 <a href="https://dev.to/softeng-islam" target="blank">
