@@ -22,7 +22,7 @@
 <p align="left">
 
 <a href="https://t.me/softeng_islam" target="_blank">
-<img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black" alt="softeng_islam"/>
+<img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="softeng_islam"/>
 </a>
 
 
@@ -31,7 +31,7 @@
 </a>
 
 <a href="https://m.me/SoftEng.Islam/" target="_blank">
-<img align="center" src="https://img.shields.io/badge/Messenger-c026d3?style=for-the-badge&logo=messenger&logoColor=black" alt="softeng_islam"/>
+<img align="center" src="https://img.shields.io/badge/Messenger-c026d3?style=for-the-badge&logo=messenger&logoColor=white" alt="softeng_islam"/>
 </a>
 
 
@@ -51,9 +51,11 @@
 <br/>
 
 ## 💻 OS
+<p>  
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Ubuntu"/>
+</p>
 
 
 <br/>
