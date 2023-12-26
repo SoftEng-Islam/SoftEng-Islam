@@ -130,12 +130,12 @@
 <p align="center">
 
   <br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=SoftEng-Islam&theme=nightowl&hide_border=false)
+</p>
   
   <br/> ![](https://github-readme-stats.vercel.app/api?username=SoftEng-Islam&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)
 
   <br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoftEng-Islam&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-</p>
 
 
 
