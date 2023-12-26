@@ -129,7 +129,7 @@
 # 📊 GitHub Stats:
 <p align="center">
 
-  <br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=SoftEng-Islam&theme=nightowl)
+  <br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=SoftEng-Islam&theme=nightowl&hide_border=false)
   
   <br/> ![](https://github-readme-stats.vercel.app/api?username=SoftEng-Islam&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)
 
