@@ -127,7 +127,7 @@
 </p>
 <br/>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SoftEng-Islam&theme=nightowl&hide_border=true" width="80%" alt="softeng.islam" />
 <br/>  
