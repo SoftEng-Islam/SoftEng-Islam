@@ -128,12 +128,9 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SoftEng-Islam&theme=nightowl&hide_border=true" height="50" width="210" alt="softeng.islam" />
-  
-  <br/> ![](https://github-readme-stats.vercel.app/api?username=SoftEng-Islam&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true)
-
-  <br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoftEng-Islam&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SoftEng-Islam&theme=nightowl&hide_border=true" width="100%" alt="softeng.islam" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoftEng-Islam&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true" width="100%" alt="softeng.islam" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftEng-Islam&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="100%" alt="softeng.islam" />
 </p>
 
 
