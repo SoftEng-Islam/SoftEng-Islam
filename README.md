@@ -98,6 +98,8 @@
   <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" slt="Framer"/>
 </p>
 
+<br/>
+
 ## 📝 Blog
 <p>
 <a href="https://dev.to/softeng-islam" target="blank">
