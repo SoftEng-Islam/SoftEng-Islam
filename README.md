@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Rust, Tauri** .
 - 💬 Ask me about **Vue, TypeScript, Electronjs** .
 - ⚡ Fun fact **I think I am Romantic, I love cats** .
-- 📫 How to reach me
+- 📫 How to reach me:
   - Twitter: **https://twitter.com/softeng_islam**
   - Telegram: **https://t.me/softeng_islam**
   - Email: **softeng.islam@gmail.com**
