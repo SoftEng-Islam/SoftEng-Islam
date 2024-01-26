@@ -46,7 +46,7 @@
 <br/>
 
 
-## 💻 OS
+## 💻 OS:
 <p>  
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
@@ -83,7 +83,7 @@
 </p>
 <br/>
 
-## 🔔 Tests
+## 🔔 Tests:
 <p>
   <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest"/>
 </p>
