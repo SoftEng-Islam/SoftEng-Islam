@@ -100,7 +100,7 @@
 
 <br/>
 
-## 📝 Blog
+## 📝 Blog:
 <p>
 <a href="https://dev.to/softeng-islam" target="blank">
   <img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" />
@@ -108,7 +108,7 @@
 </p>
 <br/>
 
-## 👩‍💻 IDE
+## 👩‍💻 IDE:
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual_Studio"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual_Studio"/>
