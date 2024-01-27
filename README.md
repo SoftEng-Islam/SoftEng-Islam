@@ -90,7 +90,7 @@
 
 <br/>
 
-## 🖍 Design
+## 🖍 Design:
 <p>
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6
 " slt="Adobe XD"/>
