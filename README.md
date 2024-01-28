@@ -40,9 +40,7 @@
 <a href="https://instagram.com/softeng_islam" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="softeng_islam" /></a>
 </p>
 
-
 <br/>
-
 
 ## 💻 OS:
 <p>  
@@ -50,7 +48,6 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Ubuntu"/>
 </p>
-
 
 <br/>
 
@@ -137,7 +134,3 @@
 <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftEng-Islam&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="80%" alt="softeng.islam" />
 </p>
-
-
-
-
