@@ -7,7 +7,6 @@
 
 <br/>
 
-
 ## 💫 About Me:
 - 🔭 I’m currently working on many of Project's .
 - 🌱 I’m currently learning **Rust, Tauri** .
@@ -19,7 +18,6 @@
   - Email: **softeng.islam@gmail.com**
 
 <br/>
-
 
 ## 📱 Contact & 👨 Social:
 
