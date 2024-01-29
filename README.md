@@ -4,9 +4,6 @@
   <a align="center" href="https://twitter.com/softeng_islam" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Islam's Twitter" />
   </a>
 </p>
-
-<br/>
-
 ## 💫 About Me:
 - 🔭 I’m currently working on many of Project's .
 - 🌱 I’m currently learning **Rust, Tauri** .
@@ -16,11 +13,7 @@
   - Twitter: **https://twitter.com/softeng_islam**
   - Telegram: **https://t.me/softeng_islam**
   - Email: **softeng.islam@gmail.com**
-
-<br/>
-
 ## 📱 Contact & 👨 Social:
-
 <p align="left">
 <a href="https://t.me/softeng_islam" target="_blank">
 <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="softeng_islam"/>
@@ -39,9 +32,6 @@
 </a>
 <a href="https://instagram.com/softeng_islam" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="softeng_islam" /></a>
 </p>
-
-<br/>
-
 ## 💻 OS:
 <p>  
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali"/>
