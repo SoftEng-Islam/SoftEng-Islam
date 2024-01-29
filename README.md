@@ -69,14 +69,11 @@
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" alt="powershell"/>
 </p>
-<br/>
 
 ## 🔔 Tests:
 <p>
   <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest"/>
 </p>
-
-<br/>
 
 ## 🖍 Design:
 <p>
