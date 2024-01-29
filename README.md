@@ -86,15 +86,12 @@
   <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" slt="Framer"/>
 </p>
 
-<br/>
-
 ## 📝 Blog:
 <p>
 <a href="https://dev.to/softeng-islam" target="blank">
   <img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" />
 </a>
 </p>
-<br/>
 
 ## 👩‍💻 IDE:
 <p>
@@ -102,14 +99,13 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual_Studio"/>
 </p>
 
-<br/>
 
 ## 📱 Mobile Frameworks:
 <p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 </p>
 
-<br/>
+
 
 ## Support:
 <p>
@@ -118,7 +114,6 @@
 <br/>
 </p>
 
-<p></p>
 <br/>  
 <p align="center">  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SoftEng-Islam&theme=nightowl&hide_border=true" width="80%" alt="softeng.islam" />
