@@ -35,6 +35,14 @@
 <a href="https://instagram.com/softeng_islam" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="softeng_islam" /></a>
 </p>
 
+
+<p align="center">  
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SoftEng-Islam&theme=nightowl&hide_border=true" width="80%" alt="softeng.islam" />
+<br/>  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftEng-Islam&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="80%" alt="softeng.islam" />
+</p>
+
+
 ## 💻 OS:
 
 <p>  
@@ -112,8 +120,4 @@
 </p>
 
 <br/>  
-<p align="center">  
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SoftEng-Islam&theme=nightowl&hide_border=true" width="80%" alt="softeng.islam" />
-<br/>  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftEng-Islam&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="80%" alt="softeng.islam" />
-</p>
+
