@@ -7,7 +7,7 @@
 </p>
 <p align="center">  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SoftEng-Islam&theme=nightowl&hide_border=true" width="80%" alt="softeng.islam" />
-<br/>  
+---------------------------------------------------------------
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftEng-Islam&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="80%" alt="softeng.islam" />
 </p>
 
