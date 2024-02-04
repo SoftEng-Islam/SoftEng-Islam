@@ -48,7 +48,6 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Ubuntu"/>
 </p>
 
-
 ## 🚀 Skills:
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
@@ -74,40 +73,6 @@
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" alt="powershell"/>
 </p>
-
-## 🔔 Tests:
-<p>
-  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest"/>
-</p>
-
-## 🖍 Design:
-<p>
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6
-" slt="Adobe XD"/>
-
-  <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" slt="Framer"/>
-</p>
-
-## 📝 Blog:
-<p>
-<a href="https://dev.to/softeng-islam" target="blank">
-  <img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" />
-</a>
-</p>
-
-## 👩‍💻 IDE:
-<p>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual_Studio"/>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual_Studio"/>
-</p>
-
-
-## 📱 Mobile Frameworks:
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-</p>
-
-
 
 ## Support:
 <p>
