@@ -7,7 +7,9 @@
 </p>
 <p align="center">  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SoftEng-Islam&theme=nightowl&hide_border=true" width="80%" alt="softeng.islam" />
+<br/>
 ---------------------------------------------------------------
+<br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftEng-Islam&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="80%" alt="softeng.islam" />
 </p>
 
@@ -80,6 +82,3 @@
   <a href="https://ko-fi.com/softeng_islam"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="softeng_islam" /></a>
 <br/>
 </p>
-
-<br/>  
-
