@@ -1,7 +1,7 @@
 # Hi 👋, I'm Islam
 <p>A Software Engineer From Egypt.</p>
 <br/>
----------------------------------------------------------------
+
 <p>
   <a align="center" href="https://twitter.com/softeng_islam" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Islam's Twitter" />
   </a>
@@ -13,7 +13,7 @@
 <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftEng-Islam&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="80%" alt="softeng.islam" />
 </p>
----------------------------------------------------------------
+
 ## 💫 About Me:
 - 🔭 I’m currently working on many of Project's .
 - 🌱 I’m currently learning **Rust, Tauri** .
