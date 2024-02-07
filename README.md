@@ -1,7 +1,6 @@
 # Hi 👋, I'm Islam
 <p>A Software Engineer From Egypt.</p>
 <br/>
-
 <p>
   <a align="center" href="https://twitter.com/softeng_islam" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Islam's Twitter" />
   </a>
