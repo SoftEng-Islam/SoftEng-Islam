@@ -2,7 +2,6 @@
 <p>A Software Engineer From Egypt.</p>
 <br/>
 
-
 ## 💫 About Me:
 - 🔭 I’m currently working on many of Project's .
 - 🌱 I’m currently learning **Rust, Tauri** .
