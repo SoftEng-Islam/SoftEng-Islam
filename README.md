@@ -10,9 +10,9 @@
 - 💬 Ask me about **Vue, TypeScript, Electronjs** .
 - ⚡ Fun fact I love **cats**.
 - 📫 How to reach me:
-  - Twitter: **https://twitter.com/softeng_islam**
-  - Telegram: **https://t.me/softeng_islam**
-  - Email: **softeng.islam@gmail.com**
+  - [Twitter/x](https://x.com/SoftEng_Islam).
+  - [Telegram](https://t.me/softeng_islam).
+  - [Email](softeng.islam@gmail.com).
   
 ## 📱 Contact & Social:
 <p align="left">
