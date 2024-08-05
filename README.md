@@ -2,6 +2,8 @@
 <p>A Software Engineer From Egypt.</p>
 <br/>
 
+`Repositories here will never be completed. It will continue to grow as long as there is imagination left in the world.`
+
 ## 💫 About Me:
 - 🔭 I’m currently working on many of Project's .
 - 🌱 I’m currently learning **Rust, Tauri** .
